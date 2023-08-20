@@ -1,5 +1,9 @@
 # mortgage-options
 
+Developer details:
+Name: Arun Kumar Venkatesh
+Email: a55001n@gmail.com
+
 ## Project setup
 ```
 npm install
